@@ -1,0 +1,8 @@
+"OccupancyID","RoomID","RoomType","customerID","customer source","price","price unit","check in time","check out time"
+"1","1","SINGLE","1","TELEPHONE","230","USD","2015/01/14","2015/01/15"
+"2","2","SINGLE","2","TRAVEL AGENT","200","USD","2015/01/13","2015/01/15"
+"3","3","SINGLE","3","COMPANY","190","USD","2015/01/12","2015/01/15"
+"4","4","SINGLE","4","WEBSITE","200","USD","2015/01/11","2015/01/15"
+"5","5","SINGLE","5","OTHER","210","USD","2015/01/10","2015/01/15"
+
+"TaskID","TaskLancherID","TaskTitle","ExecuterIDs","StartTime","EndTime"
